@@ -1,0 +1,1002 @@
+[
+  {
+    "rank": 1,
+    "name": "Crazy About You",
+    "zone": "Brickell",
+    "cuisine": "Mediterranean/Italian/Spanish",
+    "average_price": "$50-$70",
+    "price_numeric": 60,
+    "website": "https://passionrestaurantgroup.com/restaurants/crazy-about-you/",
+    "notes": "Waterfront dining, lounge setting"
+  },
+  {
+    "rank": 2,
+    "name": "Casa D'Angelo Aventura",
+    "zone": "Aventura",
+    "cuisine": "Italian",
+    "average_price": "$60-$100",
+    "price_numeric": 80,
+    "website": "https://www.casadangelo.com",
+    "notes": "Fine Italian dining"
+  },
+  {
+    "rank": 3,
+    "name": "The River Oyster Bar",
+    "zone": "Brickell",
+    "cuisine": "Seafood",
+    "average_price": "$70-$100",
+    "price_numeric": 85,
+    "website": "TBD",
+    "notes": "Oyster bar and seafood"
+  },
+  {
+    "rank": 4,
+    "name": "Sparrow Italia",
+    "zone": "Wynwood",
+    "cuisine": "Italian",
+    "average_price": "$70-$100",
+    "price_numeric": 85,
+    "website": "TBD",
+    "notes": "Italian-inspired steakhouse, fresh pastas, premium steaks"
+  },
+  {
+    "rank": 5,
+    "name": "Fleming's Steakhouse - Brickell",
+    "zone": "Brickell",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.flemingssteakhouse.com/Locations/FL/Brickell",
+    "notes": "Prime steaks, wine, outdoor patio - $139 per guest verified"
+  },
+  {
+    "rank": 6,
+    "name": "Morton's The Steakhouse",
+    "zone": "Coral Gables",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.mortons.com",
+    "notes": "USDA prime beef - Lunch $35-60 prix fixe"
+  },
+  {
+    "rank": 7,
+    "name": "Ruth's Chris Steak House",
+    "zone": "Coral Gables",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.ruthschris.com",
+    "notes": "Classic steakhouse - Steaks $52-$146"
+  },
+  {
+    "rank": 8,
+    "name": "Truluck's Ocean's Finest Seafood",
+    "zone": "Brickell",
+    "cuisine": "Seafood",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.trulucks.com",
+    "notes": "Established seafood, well-reviewed"
+  },
+  {
+    "rank": 9,
+    "name": "CLAUDIE",
+    "zone": "Brickell",
+    "cuisine": "French",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "South of France inspired, Mediterranean flavors"
+  },
+  {
+    "rank": 10,
+    "name": "Loretta & The Butcher",
+    "zone": "Coral Gables",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale butcher concept"
+  },
+  {
+    "rank": 11,
+    "name": "Beauty & The Butcher",
+    "zone": "Coral Gables",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Butcher restaurant"
+  },
+  {
+    "rank": 12,
+    "name": "Perry's Steakhouse",
+    "zone": "Coral Gables",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Premium steaks"
+  },
+  {
+    "rank": 13,
+    "name": "LT Steak & Seafood",
+    "zone": "Coral Gables",
+    "cuisine": "Steakhouse/Seafood",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.ltsteakandseafood.com",
+    "notes": "Steak and seafood combination"
+  },
+  {
+    "rank": 14,
+    "name": "Ossobuco Miami",
+    "zone": "Wynwood",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale steakhouse"
+  },
+  {
+    "rank": 15,
+    "name": "Kitchen + Kocktails By Kevin Kelley",
+    "zone": "Wynwood",
+    "cuisine": "Contemporary",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Chef-driven dining"
+  },
+  {
+    "rank": 16,
+    "name": "Macchialina",
+    "zone": "South Beach",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.macchialinami.com",
+    "notes": "Fine Italian"
+  },
+  {
+    "rank": 17,
+    "name": "Lucali",
+    "zone": "South Beach",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.lucalimiami.com",
+    "notes": "Upscale Italian"
+  },
+  {
+    "rank": 18,
+    "name": "Osteria Positano",
+    "zone": "Miami Beach",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Fine Italian"
+  },
+  {
+    "rank": 19,
+    "name": "STK Steakhouse",
+    "zone": "South Beach",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.stksteakhouse.com",
+    "notes": "Contemporary steakhouse - Dinner $95 per person"
+  },
+  {
+    "rank": 20,
+    "name": "Carbone Miami",
+    "zone": "South Beach",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.carbonemiami.com",
+    "notes": "Upscale Italian"
+  },
+  {
+    "rank": 21,
+    "name": "Dirty French Steakhouse",
+    "zone": "Brickell",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "French steakhouse concept"
+  },
+  {
+    "rank": 22,
+    "name": "BOURBON Steak Miami",
+    "zone": "Aventura",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.bourbonsteakmia.com/",
+    "notes": "Premium steakhouse - Dinner $95 per person"
+  },
+  {
+    "rank": 23,
+    "name": "CORSAIR kitchen & bar",
+    "zone": "Aventura",
+    "cuisine": "Contemporary",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Chef-driven cuisine"
+  },
+  {
+    "rank": 24,
+    "name": "Blind Tiger",
+    "zone": "Aventura",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Premium steakhouse"
+  },
+  {
+    "rank": 25,
+    "name": "Blu Steakhouse",
+    "zone": "Aventura",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Contemporary steakhouse"
+  },
+  {
+    "rank": 26,
+    "name": "Diplomat Prime",
+    "zone": "Hollywood",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Fine steakhouse"
+  },
+  {
+    "rank": 27,
+    "name": "The Drexel",
+    "zone": "South Beach",
+    "cuisine": "American",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Fine American dining"
+  },
+  {
+    "rank": 28,
+    "name": "Rosa Negra Miami",
+    "zone": "Brickell",
+    "cuisine": "Latin American",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.rosanegrarestaurant.us",
+    "notes": "Fire shows and cocktails, luxury vibes"
+  },
+  {
+    "rank": 29,
+    "name": "Lique Miami",
+    "zone": "Aventura",
+    "cuisine": "Contemporary",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale dining"
+  },
+  {
+    "rank": 30,
+    "name": "Salty Flame",
+    "zone": "Brickell",
+    "cuisine": "Steakhouse/Asian Fusion",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://saltyflamerestaurant.com/",
+    "notes": "Executive Lunch $28, Steakhouse with Asian influence"
+  },
+  {
+    "rank": 31,
+    "name": "Rò Steakhouse",
+    "zone": "Coral Gables",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://rosteakhouse.com/",
+    "notes": "20 years culinary mastery, fire-roasted specialties"
+  },
+  {
+    "rank": 32,
+    "name": "Sunny's Steakhouse",
+    "zone": "Miami",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://sunnysmia.com/",
+    "notes": "Prix fixe menu available"
+  },
+  {
+    "rank": 33,
+    "name": "The Amalfi Llama",
+    "zone": "Miami",
+    "cuisine": "Steakhouse/Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale steakhouse with Italian influences"
+  },
+  {
+    "rank": 34,
+    "name": "Fogo de Chão",
+    "zone": "Coral Gables",
+    "cuisine": "Brazilian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "$49 Best of Brazil prix fixe available"
+  },
+  {
+    "rank": 35,
+    "name": "Zucca",
+    "zone": "Coral Gables",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.zuccamiami.com/",
+    "notes": "Authentic Italian, 2,400+ wine bottles, 5x Wine Spectator Award"
+  },
+  {
+    "rank": 36,
+    "name": "Bayshore Club Bar & Grill",
+    "zone": "Coconut Grove",
+    "cuisine": "American/Seafood",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.bayshoreclubmiami.com/",
+    "notes": "Waterfront dining, market price oysters"
+  },
+  {
+    "rank": 37,
+    "name": "Manny's Wood Grill",
+    "zone": "Doral",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.mannyswoodgrill.com/",
+    "notes": "Wood-fired steakhouse, premium cuts"
+  },
+  {
+    "rank": 38,
+    "name": "CVI.CHE 105",
+    "zone": "Coral Gables",
+    "cuisine": "Peruvian/Ceviche",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://ceviche105.squarespace.com/",
+    "notes": "Fresh ceviche, lively atmosphere, 6114 Yelp reviews"
+  },
+  {
+    "rank": 39,
+    "name": "Kosh Miami",
+    "zone": "Surfside",
+    "cuisine": "Kosher",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.koshmiami.com/",
+    "notes": "Upscale kosher dining, Shabbat dinner available"
+  },
+  {
+    "rank": 40,
+    "name": "BLT Prime",
+    "zone": "Doral",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.bltrestaurants.com/location/blt-prime-miami/",
+    "notes": "Contemporary steakhouse with modern accents"
+  },
+  {
+    "rank": 41,
+    "name": "Doral Steakhouse",
+    "zone": "Doral",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://doral-steakhouse.com/",
+    "notes": "Modern steakhouse experience, expansive bar"
+  },
+  {
+    "rank": 42,
+    "name": "Fratellino",
+    "zone": "Coconut Grove",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Fine Italian dining"
+  },
+  {
+    "rank": 43,
+    "name": "Ariete",
+    "zone": "Coconut Grove",
+    "cuisine": "Contemporary",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale contemporary dining, 4.0 rating"
+  },
+  {
+    "rank": 44,
+    "name": "Il Gabbiano",
+    "zone": "Miami",
+    "cuisine": "Italian",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Upscale Italian"
+  },
+  {
+    "rank": 45,
+    "name": "Caffe Abbracci",
+    "zone": "Coral Gables",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://caffeabbracci.com/",
+    "notes": "Fine Italian, 4.3 rating, 439 reviews"
+  },
+  {
+    "rank": 46,
+    "name": "Michael's Genuine Food & Drink",
+    "zone": "Miami",
+    "cuisine": "Contemporary American",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "https://www.michaelsgenuine.com/",
+    "notes": "Chef Michael Schwartz, upscale dining"
+  },
+  {
+    "rank": 47,
+    "name": "Espanolita",
+    "zone": "Miami Beach",
+    "cuisine": "Spanish",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale Spanish dining, 4.2 rating"
+  },
+  {
+    "rank": 48,
+    "name": "Joe's Stone Crab",
+    "zone": "Miami Beach",
+    "cuisine": "Seafood",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "https://www.joesstonecrab.com/",
+    "notes": "Iconic Miami seafood, 4,700+ reviews"
+  },
+  {
+    "rank": 49,
+    "name": "Kyu",
+    "zone": "Wynwood",
+    "cuisine": "Asian Fusion",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale Asian fusion"
+  },
+  {
+    "rank": 50,
+    "name": "Pastis",
+    "zone": "Wynwood",
+    "cuisine": "French",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "French bistro style"
+  },
+  {
+    "rank": 51,
+    "name": "Grails Miami",
+    "zone": "Wynwood",
+    "cuisine": "American",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Restaurant & Sports Bar, 4.4 rating"
+  },
+  {
+    "rank": 52,
+    "name": "Cotoletta",
+    "zone": "Coconut Grove",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale Italian dining"
+  },
+  {
+    "rank": 53,
+    "name": "Da Angelino",
+    "zone": "Coconut Grove",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Fine Italian"
+  },
+  {
+    "rank": 54,
+    "name": "Koko",
+    "zone": "Coconut Grove",
+    "cuisine": "Contemporary",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale dining"
+  },
+  {
+    "rank": 55,
+    "name": "Carbone Vino",
+    "zone": "Coconut Grove",
+    "cuisine": "Italian Wine Bar",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Italian wine focused"
+  },
+  {
+    "rank": 56,
+    "name": "Aguasal by José Andrés Group",
+    "zone": "Coconut Grove",
+    "cuisine": "Spanish/Seafood",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Celebrity chef dining"
+  },
+  {
+    "rank": 57,
+    "name": "La Cabrera",
+    "zone": "Coconut Grove",
+    "cuisine": "Argentine",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Argentine steakhouse"
+  },
+  {
+    "rank": 58,
+    "name": "Greenstreet Cafe",
+    "zone": "Coconut Grove",
+    "cuisine": "American",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale American dining, 4.3 rating"
+  },
+  {
+    "rank": 59,
+    "name": "Monty's Coconut Grove",
+    "zone": "Coconut Grove",
+    "cuisine": "Seafood",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Waterfront seafood, 4.2 rating"
+  },
+  {
+    "rank": 60,
+    "name": "Jaguar Restaurant",
+    "zone": "Coconut Grove",
+    "cuisine": "Contemporary",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale dining"
+  },
+  {
+    "rank": 61,
+    "name": "The Boiling Crab",
+    "zone": "Miami",
+    "cuisine": "Seafood",
+    "average_price": "$60-$100",
+    "price_numeric": 80,
+    "website": "TBD",
+    "notes": "Casual upscale seafood, 4.0 rating"
+  },
+  {
+    "rank": 62,
+    "name": "Divieto Ristorante",
+    "zone": "Doral",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Fine Italian dining"
+  },
+  {
+    "rank": 63,
+    "name": "107 Steak & Bar",
+    "zone": "Doral",
+    "cuisine": "Steakhouse",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale steakhouse"
+  },
+  {
+    "rank": 64,
+    "name": "The Fatty Crab",
+    "zone": "Doral",
+    "cuisine": "Seafood",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "High-end seafood"
+  },
+  {
+    "rank": 65,
+    "name": "109 Fish Market",
+    "zone": "Doral",
+    "cuisine": "Seafood",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Fresh fish market concept"
+  },
+  {
+    "rank": 66,
+    "name": "Zitz Sum",
+    "zone": "Coral Gables",
+    "cuisine": "Asian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Upscale Asian dining"
+  },
+  {
+    "rank": 67,
+    "name": "The Capital Grille",
+    "zone": "Brickell",
+    "cuisine": "Seafood/Steakhouse",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Dry aged steaks 18-24 days, 350+ wine selections"
+  },
+  {
+    "rank": 68,
+    "name": "The Surf Club Restaurant",
+    "zone": "Surfside",
+    "cuisine": "Fine Dining",
+    "average_price": "$150+",
+    "price_numeric": 150,
+    "website": "TBD",
+    "notes": "Four Seasons luxury dining"
+  },
+  {
+    "rank": 69,
+    "name": "Champagne Bar at The Surf Club",
+    "zone": "Surfside",
+    "cuisine": "Champagne Bar",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Largest champagne selection in Miami"
+  },
+  {
+    "rank": 70,
+    "name": "MILA Restaurant",
+    "zone": "Miami",
+    "cuisine": "Upscale Contemporary",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Fine dining ambiance, 4.1 rating"
+  },
+  {
+    "rank": 71,
+    "name": "COTE Miami",
+    "zone": "Design District",
+    "cuisine": "Upscale Contemporary",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Wow factor dining, 4.5 rating"
+  },
+  {
+    "rank": 72,
+    "name": "Maple & Ash",
+    "zone": "Downtown Miami",
+    "cuisine": "Steakhouse",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "https://www.mapleandash.com/miami/",
+    "notes": "Fire roasted seafood tower $120+, I Don't Give A F*@K tasting menu"
+  },
+  {
+    "rank": 73,
+    "name": "Red Phone Booth",
+    "zone": "Brickell",
+    "cuisine": "Contemporary",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Upscale dining, 4.9 rating"
+  },
+  {
+    "rank": 74,
+    "name": "CASA NEOS",
+    "zone": "Downtown Miami",
+    "cuisine": "Mediterranean",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Refined sanctuary on Miami River, modern Mediterranean"
+  },
+  {
+    "rank": 75,
+    "name": "Giselle Miami",
+    "zone": "South Beach",
+    "cuisine": "Mediterranean",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Modern Mediterranean"
+  },
+  {
+    "rank": 76,
+    "name": "Cave305",
+    "zone": "South Beach",
+    "cuisine": "Steakhouse",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Luxury steakhouse with international cuisine"
+  },
+  {
+    "rank": 77,
+    "name": "BAOLI Miami",
+    "zone": "South Beach",
+    "cuisine": "Asian",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Upscale Asian dining"
+  },
+  {
+    "rank": 78,
+    "name": "Komodo Miami",
+    "zone": "Brickell",
+    "cuisine": "Asian Fine Dining",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "High-end Asian cuisine"
+  },
+  {
+    "rank": 79,
+    "name": "Lafayette Miami",
+    "zone": "Brickell",
+    "cuisine": "Steakhouse",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "https://lafayette-miami.com",
+    "notes": "Chef-driven steakhouse, Butcher's Special 34oz Tomahawk"
+  },
+  {
+    "rank": 80,
+    "name": "Los Fuegos by Francis Mallmann",
+    "zone": "South Beach",
+    "cuisine": "Steakhouse",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "https://www.losfuegosmiami.com",
+    "notes": "Argentine steakhouse"
+  },
+  {
+    "rank": 81,
+    "name": "Brooklyn Chop House",
+    "zone": "Wynwood",
+    "cuisine": "Steakhouse",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Modern steakhouse"
+  },
+  {
+    "rank": 82,
+    "name": "Area 31",
+    "zone": "Wynwood",
+    "cuisine": "Fusion",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Upscale fusion dining"
+  },
+  {
+    "rank": 83,
+    "name": "ADRIFT Mare",
+    "zone": "Miami",
+    "cuisine": "Seafood",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Upscale seafood"
+  },
+  {
+    "rank": 84,
+    "name": "Fiola Miami",
+    "zone": "Wynwood",
+    "cuisine": "Italian",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "https://www.fiolamiami.com/",
+    "notes": "Fine Italian dining"
+  },
+  {
+    "rank": 85,
+    "name": "Zuma",
+    "zone": "Coral Gables",
+    "cuisine": "Japanese",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Upscale Japanese"
+  },
+  {
+    "rank": 86,
+    "name": "Stubborn Seed",
+    "zone": "South Beach",
+    "cuisine": "Contemporary",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "https://www.stubbornseed.com/",
+    "notes": "Chef Spike Mendelsohn"
+  },
+  {
+    "rank": 87,
+    "name": "Michael's Genuine Food & Drink",
+    "zone": "Design District",
+    "cuisine": "Contemporary American",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "https://www.michaelsgenuine.com/",
+    "notes": "Chef Michael Schwartz flagship"
+  },
+  {
+    "rank": 88,
+    "name": "Juvia",
+    "zone": "South Beach",
+    "cuisine": "Pan-Latin",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Upscale Pan-Latin fusion"
+  },
+  {
+    "rank": 89,
+    "name": "Casa Tua",
+    "zone": "South Beach",
+    "cuisine": "Mediterranean",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Mediterranean fine dining"
+  },
+  {
+    "rank": 90,
+    "name": "Bagatelle Miami River",
+    "zone": "Downtown Miami",
+    "cuisine": "French",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "French Riviera inspired, sunset dining"
+  },
+  {
+    "rank": 91,
+    "name": "Casablanca",
+    "zone": "South Beach",
+    "cuisine": "Mediterranean",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Mediterranean fine dining"
+  },
+  {
+    "rank": 92,
+    "name": "Casa Neos Rooftop",
+    "zone": "Downtown Miami",
+    "cuisine": "Mediterranean",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Rooftop Mediterranean"
+  },
+  {
+    "rank": 93,
+    "name": "Morimoto Miami",
+    "zone": "Wynwood",
+    "cuisine": "Japanese",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Chef Masaharu Morimoto"
+  },
+  {
+    "rank": 94,
+    "name": "Orsay",
+    "zone": "South Beach",
+    "cuisine": "French",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "French bistro"
+  },
+  {
+    "rank": 95,
+    "name": "Pubbelly Sushi",
+    "zone": "South Beach",
+    "cuisine": "Japanese/Sushi",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "TBD",
+    "notes": "Upscale sushi"
+  },
+  {
+    "rank": 96,
+    "name": "Cote Korean Steakhouse",
+    "zone": "South Beach",
+    "cuisine": "Korean",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "https://www.cotekoreansteakhouse.com/",
+    "notes": "Korean steakhouse"
+  },
+  {
+    "rank": 97,
+    "name": "NAOE",
+    "zone": "Brickell",
+    "cuisine": "Japanese/Omakase",
+    "average_price": "$150-$250",
+    "price_numeric": 200,
+    "website": "TBD",
+    "notes": "Most expensive restaurant in Miami, 4.4 rating"
+  },
+  {
+    "rank": 98,
+    "name": "Blue Matisse",
+    "zone": "Doral",
+    "cuisine": "Fine Dining",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "InterContinental At Doral Miami, 4.5 rating"
+  },
+  {
+    "rank": 99,
+    "name": "Baiablu Italian Restaurant",
+    "zone": "Coconut Grove",
+    "cuisine": "Italian",
+    "average_price": "$80-$120",
+    "price_numeric": 100,
+    "website": "TBD",
+    "notes": "Fine Italian dining, 4.7 rating"
+  },
+  {
+    "rank": 100,
+    "name": "Chef Adrianne's Vineyard Restaurant",
+    "zone": "Coral Gables",
+    "cuisine": "Contemporary",
+    "average_price": "$100-$150",
+    "price_numeric": 125,
+    "website": "https://chefadriannes.com/vineyard-restaurant-and-bar/",
+    "notes": "Chef-driven contemporary dining"
+  }
+]
